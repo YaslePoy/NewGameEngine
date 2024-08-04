@@ -1,0 +1,11 @@
+C:\Users\Mimm\RiderProjects\NewGameEngine\NewGameEngine\obj\Debug\net8.0\NewGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mimm\RiderProjects\NewGameEngine\NewGameEngine\obj\Debug\net8.0\NewGameEngine.AssemblyInfoInputs.cache
+C:\Users\Mimm\RiderProjects\NewGameEngine\NewGameEngine\obj\Debug\net8.0\NewGameEngine.AssemblyInfo.cs
+C:\Users\Mimm\RiderProjects\NewGameEngine\NewGameEngine\obj\Debug\net8.0\NewGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\Mimm\RiderProjects\NewGameEngine\NewGameEngine\bin\Debug\net8.0\NewGameEngine.deps.json
+C:\Users\Mimm\RiderProjects\NewGameEngine\NewGameEngine\bin\Debug\net8.0\NewGameEngine.dll
+C:\Users\Mimm\RiderProjects\NewGameEngine\NewGameEngine\bin\Debug\net8.0\NewGameEngine.pdb
+C:\Users\Mimm\RiderProjects\NewGameEngine\NewGameEngine\obj\Debug\net8.0\NewGameEngine.dll
+C:\Users\Mimm\RiderProjects\NewGameEngine\NewGameEngine\obj\Debug\net8.0\refint\NewGameEngine.dll
+C:\Users\Mimm\RiderProjects\NewGameEngine\NewGameEngine\obj\Debug\net8.0\NewGameEngine.pdb
+C:\Users\Mimm\RiderProjects\NewGameEngine\NewGameEngine\obj\Debug\net8.0\ref\NewGameEngine.dll
